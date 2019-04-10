@@ -4,8 +4,8 @@ public class GitDemo {
 	
 	/**
 	 * This function will return a binary bit.
-	 * If two numbers are the same, this function will return 1,
-	 * otherwise, return 0.
+	 * If the sum of two numbers are divisble by 5,
+	 * this function will return 1, else, return 0.
 	 * @param i
 	 * @param j
 	 * @return
