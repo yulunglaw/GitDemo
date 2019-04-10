@@ -1,11 +1,10 @@
 
 public class GitDemo {
-	
-	
+
 	/**
-	 * This function will return a binary bit.
-	 * If the sum of two numbers are divisble by 5,
-	 * this function will return 1, else, return 0.
+	 * This function will return a binary bit. If the sum of two numbers are
+	 * divisble by 5, this function will return 1, else, return 0.
+	 * 
 	 * @param i
 	 * @param j
 	 * @return
@@ -16,7 +15,7 @@ public class GitDemo {
 		}
 		return 0;
 	}
-	
+
 	public static void main(String[] args) {
 		GitDemo gd = new GitDemo();
 		System.out.println(gd.equal(5, 11));
