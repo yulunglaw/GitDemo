@@ -10,7 +10,7 @@ public class GitDemo {
 	 * @return
 	 */
 	public int equal(int i, int j) {
-		if ((i + j) % 4 == 0) {
+		if ((i + j) % 5 == 0) {
 			return 1;
 		}
 		return 0;
