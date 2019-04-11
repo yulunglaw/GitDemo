@@ -18,6 +18,6 @@ public class GitDemo {
 
 	public static void main(String[] args) {
 		GitDemo gd = new GitDemo();
-		System.out.println(gd.equal(5, 11));
+		System.out.println(gd.equal(100, 110));
 	}
 }
